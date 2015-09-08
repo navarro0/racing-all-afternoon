@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+#
+# Joey Navarro
+#
+# Licensed under the MIT License
+
 import pygame, os, random, math
 from collections import namedtuple
 from pygame.locals import *
